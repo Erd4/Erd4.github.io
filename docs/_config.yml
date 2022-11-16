@@ -20,7 +20,7 @@ author: EspenVentures KlG, 9008 St. Gallen
 ###############################################
 
 navbar-links:
-  About us: "aboutus"
+  About us: "https://espenventures.com/about-us"
   Our services:
     - Tutoring: "https://espenventures.com/tutoring"
     - Taxes: "https://espenventures.com/taxes"

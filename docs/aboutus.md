@@ -3,6 +3,7 @@ layout: page
 subtitle: Who are we and what are our goals?
 permalink: /about-us/
 ---
+### Who are we and what are our goals?
 
 EspenVentures KlG has been founded by two Students at the University of St. Gallen: 
 

@@ -1,6 +1,5 @@
 ---
-layout: page
-subtitle: Who are we and what are our goals?
+layout: pages
 permalink: /about-us/
 ---
 ### Who are we and what are our goals?

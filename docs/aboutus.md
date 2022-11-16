@@ -1,5 +1,6 @@
 ---
 layout: pages
+title: About EspenVentures
 permalink: /about-us/
 ---
 ### Who are we and what are our goals?

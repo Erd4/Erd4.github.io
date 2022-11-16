@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About EspenVentures
-permalink: about-us
 subtitle: Who are we and what are our goals?
+permalink: /about-us/
 ---
 
 EspenVentures KlG has been founded by two Students at the University of St. Gallen: 

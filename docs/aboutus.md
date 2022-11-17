@@ -7,8 +7,9 @@ permalink: /about-us/
 
 EspenVentures KlG has been founded by two Students at the University of St. Gallen: 
 
-- Boas Nydegger, Majoring in Economics
-- Alexander Kekkas, Majoring in Business Administration
+- [Boas Nydegger](https://www.linkedin.com/in/BoasNydegger/), Majoring in Economics
+- [Alexander Kekkas](https://www.linkedin.com/in/kekkas/), Majoring in Business Administration
+
 
 ### Our Vision
 

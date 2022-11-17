@@ -24,6 +24,7 @@ navbar-links:
   Our services:
     - Tutoring: "tutoring"
     - Tax optimization: "taxes"
+    - IT Consulting & Data Analysis: "it"
 
 ################
 # --- Logo --- #
@@ -140,7 +141,7 @@ footer-hover-col: "#035d3e"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/logo_large.png"
+#footer-img: "/assets/img/logo_large.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.

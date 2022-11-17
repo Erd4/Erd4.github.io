@@ -25,6 +25,8 @@ navbar-links:
     - Tutoring: "tutoring"
     - Tax optimization: "taxes"
     - IT Consulting & Data Analysis: "it"
+  Intranet:
+    - E-mail: "https://www.zoho.com/mail/login.html"
 
 ################
 # --- Logo --- #

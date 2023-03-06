@@ -27,6 +27,7 @@ navbar-links:
     - IT Consulting & Data Analysis: "it"
   Intranet:
     - E-mail: "https://www.zoho.com/mail/login.html"
+    - Chat-App: "hsgapp"
 
 ################
 # --- Logo --- #

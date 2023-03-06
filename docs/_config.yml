@@ -249,6 +249,10 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
 
+aklinkedin_badge: |
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="de_DE" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="Alexander Kekkas" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/kekkas?trk=profile-badge">Alexander Kekkas</a></div>
+
 # Output options (more information on Jekyll's site)
 timezone: "Switzerland/Zurich"
 markdown: kramdown

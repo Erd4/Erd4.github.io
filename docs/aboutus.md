@@ -9,12 +9,12 @@ EspenVentures KlG has been founded by two Students at the University of St. Gall
 
 - Boas Nydegger [<img src="https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg" width="2%" height="2%">](https://www.linkedin.com/in/BoasNydegger/), Studying Economics
   - [bn@espenventures.com](mailto:bn@espenventures.com)
-- Alexander Kekkas [![LinkedIn](https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/Kekkas/), Studying Business Administration
+- Alexander Kekkas [<img src="https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg" width="2%" height="2%">](https://www.linkedin.com/in/Kekkas/), Studying Business Administration
   - [ak@espenventures.com](mailto:ak@espenventures.com)
 
 Soon after EspenVentures KlG started operating we were able to also employ the following Partner for EspenVentures:
 
-- Noah Heim [![LinkedIn](https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/noah-heim-9183b920b), Studying Business Administration
+- Noah Heim [<img src="https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg" width="2%" height="2%">](https://www.linkedin.com/in/noah-heim-9183b920b), Studying Business Administration
   - [nh@espenventures.com](mailto:nh@espenventures.com)
 
 

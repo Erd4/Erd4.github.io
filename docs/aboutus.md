@@ -7,7 +7,7 @@ permalink: /about-us/
 
 EspenVentures KlG has been founded by two Students at the University of St. Gallen: 
 
-- Boas Nydegger <img src="https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg" width="10%" height="10%">, Studying Economics
+- Boas Nydegger <img src="https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg" width="1%" height="1%">, Studying Economics
   - [bn@espenventures.com](mailto:bn@espenventures.com)
 - Alexander Kekkas [![LinkedIn](https://github.com/Erd4/Erd4.github.io/raw/master/docs/assets/img/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/Kekkas/), Studying Business Administration
   - [ak@espenventures.com](mailto:ak@espenventures.com)

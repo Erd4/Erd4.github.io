@@ -13,7 +13,7 @@
 title: EspenVentures
 
 # Your name to show in the footer
-author: EspenVentures KlG, 9008 St. Gallen
+author: EspenVentures KLG, 9008 St. Gallen
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Our services:
     - Tutoring: "tutoring"
     - Tax optimization: "taxes"
-    - IT Consulting & Data Analysis: "it-consulting"
+    - IT Consulting & Data Science: "it-consulting"
   Intranet:
     - E-mail: "https://www.zoho.com/mail/login.html"
     - Chat-App: "webapp"
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: EspenVentures KLG - Consulting services in tutoring, tax optimization, and IT
 
 ###########################
 # --- General options --- #
@@ -151,8 +151,8 @@ footer-hover-col: "#035d3e"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:

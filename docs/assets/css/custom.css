@@ -226,60 +226,95 @@
 /* Team Cards */
 .team-card {
   background: #fff;
-  border: 1px solid #e8e8e8;
-  border-radius: 0.5rem;
-  padding: 2rem 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 1rem;
+  padding: 2.5rem 1.5rem 2rem;
   height: 100%;
   text-align: center;
   transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 .team-card:hover {
   border-color: #035d3e;
-  box-shadow: 0 8px 24px rgba(3, 93, 62, 0.1);
-  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(3, 93, 62, 0.15);
+  transform: translateY(-6px);
 }
-.team-card-icon {
-  font-size: 2.5rem;
+.team-card-photo {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 1.25rem;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 3px solid #035d3e;
+  background-color: #e8f0ed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+/* Fallback icon when photo is missing */
+.team-card-photo::before {
+  content: "\f007";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 3rem;
   color: #035d3e;
-  margin-bottom: 1rem;
+  opacity: 0.4;
+  position: absolute;
+}
+.team-card-photo {
+  position: relative;
+}
+.team-card-photo img {
+  position: relative;
+  z-index: 1;
 }
 .team-card h4 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
-  font-size: 1.15rem;
-  margin-bottom: 0.25rem;
-  color: #333;
+  font-size: 1.2rem;
+  margin-bottom: 0.35rem;
+  color: #222;
 }
 .team-card-role {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 0.85rem;
-  font-weight: 600;
+  font-size: 0.8rem;
+  font-weight: 700;
   color: #035d3e;
   text-transform: uppercase;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.06em;
   margin-bottom: 0.75rem;
+  display: inline-block;
+  background-color: rgba(3, 93, 62, 0.08);
+  padding: 0.2rem 0.75rem;
+  border-radius: 1rem;
 }
 .team-card-desc {
   font-size: 0.9rem;
-  color: #666;
+  color: #555;
   line-height: 1.5;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
 }
 .team-card-links {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 .team-card-links a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.25rem;
-  height: 2.25rem;
+  width: 2.5rem;
+  height: 2.5rem;
   border-radius: 50%;
   background-color: #f0f0f0;
   color: #035d3e;
-  font-size: 1rem;
+  font-size: 1.1rem;
   transition: all 0.25s ease;
   text-decoration: none;
 }
@@ -288,6 +323,7 @@
   background-color: #035d3e;
   color: #fff;
   text-decoration: none;
+  transform: scale(1.1);
 }
 
 /* Vision Section */

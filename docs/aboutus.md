@@ -14,12 +14,12 @@ permalink: /about-us/
 <div class="row">
   <div class="col-md-4 mb-4">
     <div class="team-card">
-      <div class="team-card-icon">
-        <i class="fas fa-user-tie"></i>
+      <div class="team-card-photo">
+        <img src="/assets/img/team-boas.jpg" alt="Boas Nydegger">
       </div>
       <h4>Boas Nydegger</h4>
-      <p class="team-card-role">Co-Founder &middot; Economics</p>
-      <p class="team-card-desc">Studying Economics at the University of St. Gallen</p>
+      <p class="team-card-role">Co-Founder</p>
+      <p class="team-card-desc">M.A. in Quantitative Economics and Finance, University of St. Gallen (HSG)</p>
       <div class="team-card-links">
         <a href="mailto:bn@espenventures.com" title="Email"><i class="fas fa-envelope"></i></a>
         <a href="https://www.linkedin.com/in/BoasNydegger/" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -28,12 +28,12 @@ permalink: /about-us/
   </div>
   <div class="col-md-4 mb-4">
     <div class="team-card">
-      <div class="team-card-icon">
-        <i class="fas fa-user-tie"></i>
+      <div class="team-card-photo">
+        <img src="/assets/img/team-alexander.jpg" alt="Alexander Kekkas">
       </div>
       <h4>Alexander Kekkas</h4>
-      <p class="team-card-role">Co-Founder &middot; Business Administration</p>
-      <p class="team-card-desc">Studying Business Administration at the University of St. Gallen</p>
+      <p class="team-card-role">Co-Founder</p>
+      <p class="team-card-desc">M.A. in Banking and Finance, University of St. Gallen (HSG)</p>
       <div class="team-card-links">
         <a href="mailto:ak@espenventures.com" title="Email"><i class="fas fa-envelope"></i></a>
         <a href="https://www.linkedin.com/in/Kekkas/" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
@@ -42,12 +42,12 @@ permalink: /about-us/
   </div>
   <div class="col-md-4 mb-4">
     <div class="team-card">
-      <div class="team-card-icon">
-        <i class="fas fa-user-tie"></i>
+      <div class="team-card-photo">
+        <img src="/assets/img/team-noah.jpg" alt="Noah Heim">
       </div>
       <h4>Noah Heim</h4>
-      <p class="team-card-role">Partner &middot; Business Administration</p>
-      <p class="team-card-desc">Studying Business Administration at the University of St. Gallen</p>
+      <p class="team-card-role">Partner</p>
+      <p class="team-card-desc">M.A. in Banking and Finance, University of Zurich (UZH)</p>
       <div class="team-card-links">
         <a href="mailto:nh@espenventures.com" title="Email"><i class="fas fa-envelope"></i></a>
         <a href="https://www.linkedin.com/in/noah-heim-9183b920b" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-linkedin"></i></a>

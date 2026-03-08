@@ -197,3 +197,124 @@
 .landing-hero + .landing-services {
   margin-top: 0;
 }
+
+/* --- About Page Styles --- */
+
+.about-intro {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+}
+.about-intro p {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+.about-section-heading {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Team Cards */
+.team-card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 0.5rem;
+  padding: 2rem 1.5rem;
+  height: 100%;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.team-card:hover {
+  border-color: #035d3e;
+  box-shadow: 0 8px 24px rgba(3, 93, 62, 0.1);
+  transform: translateY(-4px);
+}
+.team-card-icon {
+  font-size: 2.5rem;
+  color: #035d3e;
+  margin-bottom: 1rem;
+}
+.team-card h4 {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  margin-bottom: 0.25rem;
+  color: #333;
+}
+.team-card-role {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #035d3e;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.75rem;
+}
+.team-card-desc {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+.team-card-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.team-card-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  color: #035d3e;
+  font-size: 1rem;
+  transition: all 0.25s ease;
+  text-decoration: none;
+}
+.team-card-links a:hover,
+.team-card-links a:focus {
+  background-color: #035d3e;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Vision Section */
+.about-vision {
+  background-color: #f8f9fa;
+  border-radius: 0.5rem;
+  padding: 2rem 2.5rem;
+  margin-bottom: 2.5rem;
+}
+.about-vision p {
+  font-size: 1rem;
+  color: #555;
+  line-height: 1.7;
+}
+.about-vision p:last-child {
+  margin-bottom: 0;
+}
+
+/* Contact CTA on About Page */
+.about-contact-cta {
+  text-align: center;
+  padding: 2rem 0 1rem;
+}
+.about-contact-cta p {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 1rem;
+}
